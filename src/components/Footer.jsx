@@ -22,7 +22,7 @@ export const Footer = () => {
                 </nav>
 
                 <section className="footer__contact">
-                    <h3 className="footer__title">Contactame</h3>
+                    <h3 className="footer__title">Contáctame</h3>
                     <div className="footer__icons">
 
                         <span className="footer__container-icons">

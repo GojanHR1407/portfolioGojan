@@ -13,7 +13,7 @@ export const Header = () => {
                             <h1 className="hero__title">Hola soy Gojan S. Holguin Rincon<br />[FullStack Developer Junior]</h1>
                             <h2 className="hero__subtitle">Correo: gojan.1407holguin@gmail.com</h2>
                             <h2 className="hero__subtitle">Creando y Transformando ideas en una Realidad</h2>
-                            <a href="#contact" className="hero__cta">Contactame ahora</a>
+                            <a href="#contact" className="hero__cta">Contáctame ahora</a>
                         </div>
                     </section>
                 </div>
