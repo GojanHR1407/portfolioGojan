@@ -18,13 +18,10 @@ export const About = () => {
     return (
         <section className="about container">
 
-            {/* <FontAwesomeIcon icon="fa-solid fa-code" />
-            <FontAwesomeIcon icon="fa-solid fa-language" /> */}
-
                 <div className="about__text" id="skills" data-aos="fade-right">
                     <h2 className="subtitle">Mis habilidades</h2>
-                    <p className="about__paragraph">Soy desarrollador Fullstack, con un enfoque principal en el desarrollo Backend con Django Rest Framework, tambien cuento con conocimientos en la parte Front como: <FontAwesomeIcon icon={faHtml5} style={{color: '#E34C26'}} /> Html, <FontAwesomeIcon icon={faCss3} style={{color: '#1C78C0'}} /> Css, <FontAwesomeIcon icon={faJsSquare} style={{color: '#F0DB4F'}} /> JavaScript, <FontAwesomeIcon icon={faReact} style={{color: '#165CAA'}} /> React y algo de diseño responsive.</p>
-                    <p className="about__paragraph">Por la parte BackEnd: <FontAwesomeIcon icon={faPython} style={{color: '#306998'}} /> Python, lenguaje de consultas <FontAwesomeIcon icon={faCoins} style={{color: '#AAAAAA'}} /> SQL, tengo algunos conocimetos sobre la metodologia de Scrum y tambien conocimetos sobre <FontAwesomeIcon icon={faGitAlt} style={{color: '#BD2C00'}} /> Git. Actualmente estoy en el aprendizaje de .Net, <FontAwesomeIcon icon={faDocker} style={{color: '#0DB7ED'}}/> Docker y Java <FontAwesomeIcon icon={faJava}/> con Springboot.</p>
+                    <p className="about__paragraph">Soy desarrollador Fullstack, con un enfoque principal en el desarrollo BackEnd, cuento con conocimientos en la parte Frontend como: <FontAwesomeIcon icon={faHtml5} style={{color: '#E34C26'}} /> Html, <FontAwesomeIcon icon={faCss3} style={{color: '#1C78C0'}} /> Css, <FontAwesomeIcon icon={faJsSquare} style={{color: '#F0DB4F'}} /> JavaScript, <FontAwesomeIcon icon={faReact} style={{color: '#165CAA'}} /> React y algo de diseño responsive.</p>
+                    <p className="about__paragraph">Por la parte BackEnd: <FontAwesomeIcon icon={faPython} style={{color: '#306998'}} /> Python, lenguaje de consultas <FontAwesomeIcon icon={faCoins} style={{color: '#AAAAAA'}} /> SQL, tengo algunos conocimetos sobre la metodologia de Scrum y tambien conocimetos sobre <FontAwesomeIcon icon={faGitAlt} style={{color: '#BD2C00'}} /> Git. Actualmente estoy en el aprendizaje de .Net, <FontAwesomeIcon icon={faDocker} style={{color: '#0DB7ED'}}/> Docker y <FontAwesomeIcon icon={faJava} style={{color: '#BD2C00'}}/> Java con Springboot.</p>
                 </div>
 
                 <figure className="about__img" data-aos="fade-right">
@@ -37,8 +34,8 @@ export const About = () => {
 
                 <div className="about__text" data-aos="fade-left">
                     <h2 className="subtitle">Sobre mi trabajo</h2>
-                    <p className="about__paragraph">Me gusta tener una seguridad de que el cliente le guste mi trabajo, ademas de mantener un constante cambio entre versiones para que el diseño y su funcionalidad siempre esten en buen funcionamiento.</p>
-                    <p className="about__paragraph">Normalmente me gusta trabajar con amigos desarrolladores para tener un mejor punto de vista y estar al tanto de alguna anomalia dentro del software, he hecho diferentes proyectos como muestra de ello.</p>
+                    <p className="about__paragraph">Me gusta tener una seguridad de realizar un trabajo concreto, ademas de mantener un constante cambio entre versiones para que el diseño y su funcionalidad siempre tengan un funcionamiento optimo.</p>
+                    <p className="about__paragraph">Normalmente me gusta trabajar con compañeros desarrolladores para tener un mejor punto de vista y estar al tanto de alguna anomalia dentro del software, he hecho diferentes proyectos como muestra de ello.</p>
                 </div>
 
             </section>

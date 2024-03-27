@@ -22,17 +22,17 @@ export const Footer = () => {
                 </nav>
 
                 <section className="footer__contact">
-                    <h3 className="footer__title">Contact me</h3>
+                    <h3 className="footer__title">Contactame</h3>
                     <div className="footer__icons">
 
                         <span className="footer__container-icons">
-                            <a className="fab footer__icon" href="https://www.linkedin.com/in/gojan-holguin-rincon-0973271b0/">
+                            <a className="fab footer__icon" href="https://www.linkedin.com/in/gojanstholguin/">
                             <FontAwesomeIcon icon={faLinkedin} />
                             </a>
                         </span>
 
                         <span className="footer__container-icons">
-                            <a className="fab footer__icon" href="https://github.com/GojanHolguin">
+                            <a className="fab footer__icon" href="https://github.com/GojanHR1407">
                                 <FontAwesomeIcon icon={faGithub} />
                             </a>
                         </span>
